@@ -1,3 +1,6 @@
+<h1>Optimizing Solar Panel Plant Management: Energy Forecasting,
+Performance Classification, and Anomaly Detection</h1>
+
 This project focused on optimizing the management of two solar panel plants through pre-
 dictive analytics, performance classification, and anomaly detection. We began by performing an extensive
 exploratory data analysis (EDA), which helped us clean the dataset and identify key features. We applied
