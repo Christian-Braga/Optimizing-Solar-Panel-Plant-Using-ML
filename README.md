@@ -36,7 +36,7 @@ Finally, we developed an anomaly detection tool using the predictions from the R
 This tool allows plant operators to identify potential failures in real time, helping to prevent costly repairs
 and unplanned downtime. By flagging anomalies early, the tool ensures that underperforming inverters or
 panels can be addressed before they cause significant damage or loss of productivity.
-Overall, this project demonstrates the value of advanced machine learning techniques in enhancing the oper-
+Overall, this project demonstrates the value of advanced machine learning techniques in enhancing the oper
 ational efficiency of solar panel plants. By improving energy prediction, identifying underperforming units,
 and preventing failures through anomaly detection, this analysis contributes to the broader goal of making
 renewable energy systems more reliable, efficient, and cost-effective. Future improvements could focus on
